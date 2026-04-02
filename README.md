@@ -1,73 +1,88 @@
-<h3 align="center">Hey there 👋</h3>
-
-<h1 align="center">I'm Nikhil Nishad</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Nishad</h1>
 
 <h3 align="center">🚀 Full Stack Developer | DevOps Enthusiast</h3>
 
+<!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;DevOps+Learner;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+Expert;DevOps+Learner;Building+Modern+Web+Apps;Always+Learning+New+Things+🚀" />
 </p>
 
+<!-- WAVE ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=header"/>
+
 ---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-nishad-293176349/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Nishad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nikhilnishad622@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/NikhilNishad06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-💻 Passionate Full Stack Developer <br>
-⚙️ Strong knowledge of DevOps <br>
-🌱 Always learning new technologies <br>
-🔥 Love building real-world projects
-</p>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
+## 👨‍💻 About Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,bootstrap,tailwind,mongodb,supabase,git,github" />
+💻 Passionate **Full Stack Developer**  
+⚙️ Exploring **DevOps & Cloud Technologies**  
+🌱 Currently learning **Advanced Backend & Deployment**  
+🔥 Love building **real-world scalable projects**  
 
 </p>
 
 ---
 
-<h2 align="center">🚀 What I Do</h2>
+## 🛠️ Tech Stack
 
 <p align="center">
-✔️ Build Full Stack Web Applications <br>
-✔️ Work with Modern UI (React + Tailwind) <br>
-✔️ Manage Databases (MongoDB & Supabase) <br>
-✔️ Basic DevOps & Deployment
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,nodejs,express,mongodb,supabase,git,github,vscode" />
 </p>
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+## 🚀 What I Do
 
 <p align="center">
-📧 nikhilnishad622@gmail.com <br><br>
-<a href="https://www.linkedin.com/in/nikhil-nishad-293176349/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+
+✔️ Build **Full Stack Applications**  
+✔️ Design **Modern UI/UX**  
+✔️ Manage **Backend & Databases**  
+✔️ Deploy using **DevOps basics**  
+
 </p>
 
 ---
 
-<h2 align="center">⚡ Fun Fact</h2>
+## 📊 GitHub Stats (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilNishad06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NikhilNishad06&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilNishad06&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NikhilNishad06/NikhilNishad06/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Fun Fact
 
 <p align="center">
 💡 <b>Code. Learn. Build. Repeat. 🚀</b>
@@ -75,8 +90,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NikhilNishad06&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
