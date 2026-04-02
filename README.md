@@ -1,34 +1,31 @@
-<h1 align="center">Nikhil Nishad</h1>
-<h3 align="center">Full Stack Developer • DevOps Learner</h3>
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&color=0FFFCF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;DevOps+Explorer+🚀" />
 </p>
 
 ---
 
-### 👨‍💻 About
-- 🚀 Full Stack (MERN)
-- ⚙️ DevOps & Deployment
-- 🔥 Real-world Projects
-
----
-
-### 🛠️ Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,git,github" />
+<p align="center">
+  💻 Building modern, fast & scalable web apps
 </p>
 
 ---
 
-### 📊 Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhilNishad06&show_icons=true&theme=github_dark&hide_border=true" height="140"/>
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/supabase-black?style=flat&logo=supabase"/>
+  <img src="https://img.shields.io/badge/google%20sheets-black?style=flat&logo=googlesheets"/>
+  <img src="https://img.shields.io/badge/devops-black?style=flat&logo=docker"/>
 </p>
 
 ---
 
-### 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/nikhil-nishad-293176349/) •  
-[Email](mailto:nikhilnishad622@gmail.com) •  
-[GitHub](https://github.com/NikhilNishad06)
+<p align="center">
+  ⚡ Code • Build • Scale 🚀
+</p>
