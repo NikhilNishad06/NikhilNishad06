@@ -1,193 +1,272 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ============================ HERO ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FFFCF,100:6366F1&height=220&section=header&text=Nikhil%20Nishad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Nikhil%20Nishad&fontSize=64&fontColor=0FFFCF&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20Supabase&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=0FFFCF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+production-grade+MERN+apps;%F0%9F%92%BC+7+Enterprise+Systems+Delivered;%E2%9A%A1+React+%7C+Node.js+%7C+Supabase+%7C+MongoDB;%F0%9F%94%90+JWT+%7C+RBAC+%7C+REST+APIs;%F0%9F%90%B3+DevOps+Explorer" alt="Typing SVG" />
+<a href="https://github.com/NikhilNishad06">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=0FFFCF&center=true&vCenter=true&width=760&height=50&lines=%3E+Building+production-grade+MERN+applications;%3E+7+Enterprise+Systems+Delivered+to+Real+Clients;%3E+React+%7C+Next.js+%7C+Node.js+%7C+Express+%7C+NestJS;%3E+Secure+by+Design%3A+JWT+%2B+RBAC+%2B+REST+APIs;%3E+Code+%E2%80%A2+Build+%E2%80%A2+Scale+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
+<img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20Roles-0FFFCF?style=for-the-badge&logo=target&logoColor=black" />
+<img src="https://img.shields.io/badge/Experience-1%20Year-6366F1?style=for-the-badge&logo=briefcase&logoColor=white" />
+<img src="https://img.shields.io/badge/Enterprise%20Apps-7%20Delivered-F59E0B?style=for-the-badge&logo=rocket&logoColor=white" />
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/nikhil-nishad-293176349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nikhilnishad622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:nikhilnishad622@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/NikhilNishad06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=NikhilNishad06&label=Profile%20Views&color=0FFFCF&style=for-the-badge" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 👨‍💻 About Me
+<!-- ============================ ABOUT ============================ -->
+
+## 👨‍💻 &nbsp;About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```js
 const nikhil = {
   role: "Full Stack Developer",
   company: "Botivate Services LLP",
-  location: "Durg, Chhattisgarh, India 🇮🇳",
-  education: "BCA — Kalinga University (CGPA 3.79 / 4.00)",
-  experience: "1 year building real-world business software",
-  specialities: ["MERN Stack", "REST APIs", "JWT Auth", "RBAC", "Dashboards"],
-  currentlyLearning: ["DevOps", "Docker", "System Design"],
+  location: "Durg, Chhattisgarh 🇮🇳",
+  education: "BCA · Kalinga University",
+  cgpa: "3.79 / 4.00",
+  experience: "1 year · production MERN apps",
+  strengths: [
+    "Requirement gathering on-site",
+    "Scalable REST API design",
+    "Secure auth (JWT + RBAC)",
+    "Performance optimization",
+  ],
+  learning: ["DevOps", "Docker", "System Design"],
   motto: "Code • Build • Scale 🚀",
 };
 ```
 
-- 🏢 Delivered **7 enterprise systems** — ERP, HR, MIS, Purchase & Sales, Document/Subscription management
-- 🤝 Gather requirements **on-site with clients** and turn business workflows into secure, scalable software
-- ⚡ Focused on **performance** — faster page loads, quicker APIs, tuned database queries
-- 🔐 Strong with **JWT authentication, role-based access control** and clean, responsive UIs
+</td>
+<td width="45%" valign="top">
 
----
+🏢 Delivered **7 enterprise systems** — ERP, HR, MIS, Purchase & Sales, Document & Subscription management
 
-## 🛠 Tech Stack
+🤝 Meet clients **on-site**, understand business workflows & turn them into secure software
 
-<div align="center">
+⚡ Obsessed with **speed** — faster page loads, quicker APIs, tuned DB queries
 
-**Languages**
+🔐 Strong in **JWT, OAuth & Role-Based Access Control**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,mysql" />
+📊 Build **real-time dashboards**, reports & automated notification workflows
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,framer" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,netlify,vercel,docker" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-
-</div>
-
----
-
-## 💼 Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| 🚀 **Full Stack Web Developer** | Botivate Services LLP | Mar 2026 – Present |
-| 🎯 **Full Stack Developer Intern** | Botivate Services LLP | Jan 2026 – Feb 2026 |
-
-**What I do:**
-- ✅ Build end-to-end apps: UI → REST APIs → database design → testing → deployment
-- ✅ Built an **HR system with live location tracking** & outside-attendance monitoring for field staff
-- ✅ Implemented **RBAC, file uploads, reporting dashboards** and automated notification workflows
-- ✅ Automated manual work using **Google Sheets API + Apps Script**
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🏭 ERP & Master Management
-Centralized ERP for master data, user roles and cross-department workflows with RBAC-secured data access.
-
-`React` `Vite` `Tailwind` `Supabase` `MongoDB`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📊 MIS Dashboard
-Real-time cross-department reports with automated Google Sheets sync — **eliminated manual data entry**.
-
-`React` `Supabase` `Apps Script` `Sheets API`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 👥 HR Management System
-Employee management, attendance tracking and **live location monitoring** with JWT auth & validated data handling.
-
-`React` `Supabase` `MongoDB` `JWT`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🛒 Purchase & Sales / Order-to-Delivery
-Automated purchase-to-delivery workflow with real-time order tracking, inventory updates and reports.
-
-`React` `Vite` `Tailwind` `Supabase`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### ✅ Checklist & Delegation System
-Task assignment, status tracking, deadline monitoring and automated notifications for on-time completion.
-
-`React` `Tailwind` `Supabase` `MongoDB`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🏫 School Website
-Responsive school website with user-based authentication for secure, personalized access.
-
-`React` `Tailwind` `MongoDB` `Auth`
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
+</div>
 
-## 📈 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ============================ WORKFLOW ============================ -->
+
+## ⚙️ &nbsp;How I Ship Software
+
+```mermaid
+flowchart LR
+    A([🤝 Client Meeting]) --> B([📋 Requirements])
+    B --> C([🗄️ DB Design])
+    C --> D([🔌 REST APIs + Auth])
+    D --> E([🎨 React UI])
+    E --> F([🧪 Testing])
+    F --> G([🚀 Deploy & Monitor])
+    G -.feedback.-> A
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ============================ TECH STACK ============================ -->
+
+## 🛠 &nbsp;Tech Arsenal
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhilNishad06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilNishad06&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td align="center"><b>🔤 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,html,css,mysql&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,framer&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Tools & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,postman,netlify,vercel,docker&theme=dark" /></td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=NikhilNishad06&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NikhilNishad06&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://img.shields.io/badge/REST%20APIs-0FFFCF?style=for-the-badge&logo=fastapi&logoColor=black" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-6366F1?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Payment%20Gateways-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Email%20%2F%20SMS%20Notifications-FF6F00?style=for-the-badge&logo=maildotru&logoColor=white" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🎓 Education
+<!-- ============================ EXPERIENCE ============================ -->
 
-- 🎓 **BCA** — Kalinga University, Raipur · *CGPA 3.79 / 4.00* (2023 – 2026)
-- 💻 **Full Stack Web Development Course** — Avish Educom, Durg (Feb 2026)
+## 💼 &nbsp;Experience Timeline
 
----
+```text
+ 2026 ─────────────────────────────────────────────────────────▶ Present
+   │
+   ├── Jan 2026 – Feb 2026 ── 🎯 Full Stack Developer Intern   @ Botivate Services LLP
+   │
+   └── Mar 2026 – Present ─── 🚀 Full Stack Web Developer     @ Botivate Services LLP
+```
 
-## 🤝 Let's Connect
+<details open>
+<summary><b>🚀 Full Stack Web Developer — Botivate Services LLP</b> &nbsp;<code>Mar 2026 – Present</code> &nbsp;<code>On-site, India</code></summary>
+<br/>
+
+- ✅ Delivered **7 enterprise web apps** end-to-end — UI, REST APIs, database design, testing & deployment
+- ✅ Ran **on-site requirement-gathering** meetings and converted business workflows into production-ready software
+- ✅ Built an **HR system with live location tracking** and outside-attendance monitoring for field staff (JWT + role-based dashboards)
+- ✅ Implemented **RBAC, file uploads, reporting dashboards** and automated notification workflows
+- ✅ **Optimized performance** — lower page load times, faster APIs, tuned database queries
+- ✅ Collaborated with teams to ship features and resolve production issues with clean-code practices
+
+**Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `Supabase` `Tailwind CSS`
+
+</details>
+
+<details>
+<summary><b>🎯 Full Stack Web Developer Intern — Botivate Services LLP</b> &nbsp;<code>Jan 2026 – Feb 2026</code></summary>
+<br/>
+
+- ✅ Assisted in building and maintaining client web applications across the complete MERN lifecycle
+- ✅ Developed enterprise modules for ERP and HR management systems using REST API & database design best practices
+
+**Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ============================ SYSTEMS BUILT ============================ -->
+
+## 🏆 &nbsp;What I Build
 
 <div align="center">
 
-📧 **nikhilnishad622@gmail.com** &nbsp;|&nbsp; 📱 **+91 62643 45297**
+| 🏭 ERP Systems | 👥 HR Management | 📊 MIS Dashboards | 🛒 Purchase & Sales |
+|:---:|:---:|:---:|:---:|
+| Master data, roles & cross-department workflows | Attendance, live location & employee management | Real-time reports with Google Sheets automation | Order-to-delivery tracking & inventory |
 
-💬 *Open to full-stack opportunities, freelance projects and collaborations!*
+| ✅ Task Delegation | 📄 Document Management | 🔔 Notifications | 🔐 Secure Access |
+|:---:|:---:|:---:|:---:|
+| Assignment, deadlines & status tracking | Document & subscription handling | Email / SMS automated workflows | JWT auth & role-based dashboards |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ============================ STATS ============================ -->
+
+## 📈 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=NikhilNishad06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilNishad06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&color=6366F1&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Code+%E2%80%A2+Build+%E2%80%A2+Scale+%F0%9F%9A%80;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" />
+<img src="https://streak-stats.demolab.com?user=NikhilNishad06&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0FFFCF&height=120&section=footer" width="100%" />
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilNishad06&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="95%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=NikhilNishad06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ============================ EDUCATION ============================ -->
+
+## 🎓 &nbsp;Education
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎓 BCA
+**Kalinga University, Raipur**<br/>
+Aug 2023 – Feb 2026<br/>
+<img src="https://img.shields.io/badge/CGPA-3.79%20%2F%204.00-0FFFCF?style=for-the-badge" />
+
+</td>
+<td width="50%" align="center">
+
+### 💻 Full Stack Web Development
+**Avish Educom, Durg**<br/>
+Feb 2026<br/>
+<img src="https://img.shields.io/badge/Course-Completed-6366F1?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ============================ CONTACT ============================ -->
+
+## 🤝 &nbsp;Let's Work Together
+
+<div align="center">
+
+```bash
+$ whoami
+> Nikhil Nishad — Full Stack Developer
+
+$ status
+> 🟢 Available for full-stack roles, freelance & collaborations
+```
+
+<a href="mailto:nikhilnishad622@gmail.com"><img src="https://img.shields.io/badge/📧%20nikhilnishad622@gmail.com-0FFFCF?style=for-the-badge&labelColor=0F2027" /></a>
+<a href="tel:+916264345297"><img src="https://img.shields.io/badge/📱%20+91%2062643%2045297-6366F1?style=for-the-badge&labelColor=0F2027" /></a>
+<a href="https://www.linkedin.com/in/nikhil-nishad-293176349"><img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0F2027" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=6366F1&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Let's+build+something+great+together+%F0%9F%9A%80;Code+%E2%80%A2+Build+%E2%80%A2+Scale" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer&animation=twinkling" width="100%" />
 
 </div>
